@@ -13,3 +13,6 @@ while True:
     answer = calculation(numbers, correct_order, operator)
 
     print('Ans:- ', answer)
+
+    if input('Do you want to continue? (y/n) ') == 'n':
+        break

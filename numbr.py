@@ -1,6 +1,7 @@
 def numbers_sort(exp):
     digit='.0123456789'
-    symbols='//**-+%^!'
+    # symbols='//**-+%^!'
+    symbols='/**-+%^!'
     n=''
     i=0
 

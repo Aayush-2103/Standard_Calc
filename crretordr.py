@@ -1,5 +1,6 @@
 def order(operator):
-    default_order=['**', '^', '/', '//', '%', '*', '+', '-']
+    # default_order=['**', '^', '/', '//', '%', '*', '+', '-']
+    default_order=['**', '^', '/', '%', '*', '+', '-']
     correct_order = []
     for i in default_order:
         for j in operator:

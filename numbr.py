@@ -1,7 +1,6 @@
 def numbers_sort(exp):
     digit='.0123456789'
-    # symbols='//**-+%^!'
-    symbols='/**-+%^!'
+    symbols='//**-+%^!'
     n=''
     i=0
 
@@ -37,8 +36,13 @@ def numbers_sort(exp):
         num_str=n.split(' ')
         num=[]
         for i in num_str:
-            num.append(float(i))
+            if '.' in i:
+                num.append(float(i))
+
+            else:
+                num.append(int(i))
+                
         return num
-    
+        
     else:
         return 0

@@ -41,8 +41,8 @@ def numbers_sort(exp):
 
             else:
                 num.append(int(i))
-                
+            
         return num
-        
+    
     else:
         return 0

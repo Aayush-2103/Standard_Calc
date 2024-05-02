@@ -1,6 +1,5 @@
 def operators(exp):
-    symbols='/**-+%^!'
-    # symbols='//**-+%^!'
+    symbols='//**-+%^!'
     op=''
     sym=[]
     for i in range(len(exp)):

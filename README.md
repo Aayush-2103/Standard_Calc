@@ -32,6 +32,18 @@ Key Features:
 </p>
 
 <h2>
+  How to use ???
+</h2>
+<p>
+<ol>
+  <li> Click on the highlighted text <a href="https://github.com/Aayush-2103/Standard_Calc/blob/main/dist/Calc.exe">Calc.exe</a></li>
+  <li> Click on the download button and the file will be downloaded. </li>
+  <li> Double-click on the downloaded file and it will run directly on your command prompt. </li>
+</ol>
+</p>
+
+
+<h2>
   Flashback of this project
 </h2>
 <p>
